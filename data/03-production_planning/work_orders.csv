@@ -1,7 +1,7 @@
-orden_trabajo,costo_materia_prima,precio_venta,prioritaria
-OT1,5,9,True
-OT2,6.5,11,True
-OT3,4,9,False
-OT4,5,7,False
-OT5,4,9,False
-OT6,7,8,True
+work_order,cost,price,priority
+O1,5,9,True
+O2,6.5,11,True
+O3,4,9,False
+O4,5,7,False
+O5,4,9,False
+O6,7,8,True
