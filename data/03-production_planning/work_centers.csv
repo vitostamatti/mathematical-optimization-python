@@ -1,4 +1,4 @@
-work_center,capacity,regular_op,specialized_op,costs
+work_center,capacity,regular_op,specialized_op,cost
 WC1,2300,2,2,800
 WC2,1750,2,1,950
 WC3,2100,2,1,300
