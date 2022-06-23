@@ -32,11 +32,9 @@ git clone https://github.com/vitostamatti/mathematical-optimization-pyomo.git
 ## Usage <a name = "usage"></a>
 
 
-In the [notebooks](/notebooks/) directory you can find examples diferent problems with
+In the [notebooks](/notebooks/) directory you can find examples of diferent problems.
 
-
-The input data for some of the examples
-is available in the [data](/data/) directory.
+The input data for some of the examples is available in the [data](/data/) directory.
 
 ## Roadmap
 
