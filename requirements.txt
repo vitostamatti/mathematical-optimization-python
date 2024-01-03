@@ -1,0 +1,6 @@
+ply==3.11
+Pyomo==6.7.0
+ipykernel
+pandas
+matplotlib
+seaborn
