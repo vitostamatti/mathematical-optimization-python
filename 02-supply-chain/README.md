@@ -150,19 +150,28 @@ Related to the shortest planning horizon focusing primarily on fulfilling custom
 
 - https://github.com/Gurobi/modeling-examples/tree/master?tab=readme-ov-file
 
+### Strategic
 - https://github.com/Gurobi/modeling-examples/blob/master/facility_location/facility_location.ipynb
-- https://github.com/Gurobi/modeling-examples/blob/master/market_sharing/market_sharing.ipynb
 - https://github.com/Gurobi/modeling-examples/blob/master/customer_assignment/customer_assignment.ipynb
+- https://github.com/Gurobi/modeling-examples/blob/master/decentralization_planning/decentralization_planning.ipynb
+- https://github.com/Gurobi/modeling-examples/blob/master/market_sharing/market_sharing.ipynb
+
+### Tactical
 - https://github.com/Gurobi/modeling-examples/blob/master/factory_planning/factory_planning_2.ipynb
 - https://github.com/Gurobi/modeling-examples/blob/master/food_manufacturing/food_manufacture_2.ipynb
-- https://github.com/Gurobi/modeling-examples/blob/master/technician_routing_scheduling/technician_routing_scheduling.ipynb
 - https://github.com/Gurobi/modeling-examples/blob/master/manpower_planning/manpower_planning.ipynb
+
+### Operational
+- https://github.com/Gurobi/modeling-examples/blob/master/technician_routing_scheduling/technician_routing_scheduling.ipynb
 - https://github.com/Gurobi/modeling-examples/blob/master/traveling_salesman/tsp.ipynb
+
+
 - https://github.com/Gurobi/modeling-examples/blob/master/mining/mining.ipynb
+- https://github.com/Gurobi/modeling-examples/blob/master/electrical_power_generation/electrical_power_2.ipynb
+  
 - https://github.com/Gurobi/modeling-examples/blob/master/car_rental/car_rental_2.ipynb
 - https://github.com/Gurobi/modeling-examples/blob/master/economic_planning/economic_planning.ipynb
 - https://github.com/Gurobi/modeling-examples/blob/master/efficiency_analysis/efficiency_analysis.ipynb
-- https://github.com/Gurobi/modeling-examples/blob/master/electrical_power_generation/electrical_power_2.ipynb
 
 
 ### Facility Location Problem:
